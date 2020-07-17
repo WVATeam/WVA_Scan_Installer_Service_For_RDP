@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WVA Scan Installer Service", "WVA Scan Installer Service.csproj", "{3ECB72AA-9BC2-404B-89FC-1017CE534FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECB72AA-9BC2-404B-89FC-1017CE534FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECB72AA-9BC2-404B-89FC-1017CE534FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECB72AA-9BC2-404B-89FC-1017CE534FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECB72AA-9BC2-404B-89FC-1017CE534FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F05B71-48C8-4410-8975-813792B66211}
+	EndGlobalSection
+EndGlobal
