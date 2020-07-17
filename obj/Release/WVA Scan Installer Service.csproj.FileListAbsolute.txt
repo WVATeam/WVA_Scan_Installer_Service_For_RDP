@@ -13,3 +13,5 @@ C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\R
 C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Release\WVA Scan Installer Service.exe
 C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Release\WVA Scan Installer Service.pdb
 C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\bin\Release\WVA Scan Installer Service.pdb
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Release\WVA Scan Installer Service.csprojAssemblyReference.cache
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Release\WVA Scan Installer Service.csproj.CoreCompileInputs.cache

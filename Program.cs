@@ -6,7 +6,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WVA_Scan_Installer_Service
+namespace WVA_Scan_Installer_Service 
 {
     static class Program
     {
