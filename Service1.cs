@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace WVA_Scan_Installer_Service
 {
     // Windows Service Commands
-    // install service ------- sc create AppName binPath="path"
+    // install service ------- sc create AppName binPath="path" start="auto"
     // uninstall service ----- sc delete AppName
     // start service --------- net start AppName
     // stop service ---------- net stop AppName
@@ -27,7 +27,7 @@ namespace WVA_Scan_Installer_Service
 
         protected override void OnStart(string[] args)
         {
-            new Installer().Run();
+            Task.Run(() => new Installer().Run()); 
         }
 
         protected override void OnStop()

@@ -1,0 +1,6 @@
+
+*.lock
+*.ide-wal
+*.ide
+*.ide-shm
+.vs/WVA Scan Installer Service/v16/.suo

@@ -6,3 +6,10 @@ C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service for R
 C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service for RDP\bin\Debug\WVA Scan Installer Service.pdb
 C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service for RDP\obj\Debug\WVA Scan Installer Service.exe
 C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service for RDP\obj\Debug\WVA Scan Installer Service.pdb
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\bin\Debug\WVA Scan Installer Service.exe.config
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\bin\Debug\WVA Scan Installer Service.exe
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\bin\Debug\WVA Scan Installer Service.pdb
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Debug\WVA Scan Installer Service.csproj.ResolveComReference.cache
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Debug\WVA Scan Installer Service.exe
+C:\Users\evan\Desktop\Languages\C#\Scanner Apps\WVA Scan Installer Service\obj\Debug\WVA Scan Installer Service.pdb
